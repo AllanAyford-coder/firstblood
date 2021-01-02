@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Staatliches&display=swap');
+h1 {
+    font-family: 'Staatliches', cursive;
+    font-size: 22px;
+}
+
+h2 {
+    font-family: 'Staatliches', cursive;
+    font-size: 20px;
+}
+
+h3 {
+    font-family: 'Staatliches', cursive;
+    font-size: 18px;
+}
+
+h4 {
+    font-family: 'Staatliches', cursive;
+    font-size: 14px;
+}
+
+h5 {
+    font-family: 'Staatliches', cursive;
+    font-size: 12px;
+}
+
+h6 {
+    font-family: 'Staatliches', cursive;
+    font-size: 11px;
+}
+
+p {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 11px;
+}
+
+a {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 11px;
+}
+
+li {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 11px;
+}
