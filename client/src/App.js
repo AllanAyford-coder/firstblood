@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Switch, Route, Redirect } from 'react-router-dom';
+import { Switch, Route } from 'react-router-dom';
 import Login from './pages/login/login.page';
 import Dashboard from './pages/dashboard/dashboard.page';
 import NoMatch from './pages/errorpages/nomatch.page';

@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import Styled from 'styled-components';
+import Header from '../../components/header/header.component'
 
 const Styles = Styled.div`
   
@@ -16,7 +17,7 @@ export default class Dashboard extends Component {
   render() {
     return (
       <Styles>
-        <h1>Dashboard</h1>
+        <Header />
       </Styles>
     )
   }
